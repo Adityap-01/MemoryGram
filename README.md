@@ -1,5 +1,5 @@
 # MemoryGram
-A MERN Stack social media website , where people can store there memories and views others.
+A MERN Stack social media website , where people can store their memories and views others.
 
 ## Images - 
 <img src="Images/pic1.PNG" width="700">
